@@ -21,4 +21,5 @@ sudo easy_install pip
 * If you have `permission denied` error after `pip install -U instabot`, try:
 ```
 sudo pip install -U instabot
+pip install -U instabot --user
 ```
